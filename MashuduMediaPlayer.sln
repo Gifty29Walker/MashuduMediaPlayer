@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MashuduMediaPlayer", "MashuduMediaPlayer\MashuduMediaPlayer.csproj", "{C854A947-B1CA-406D-859C-64D591BBA8DD}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{29C8D9B3-7E6A-41D9-AD64-8DA4E35D80E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{C854A947-B1CA-406D-859C-64D591BBA8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C854A947-B1CA-406D-859C-64D591BBA8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C854A947-B1CA-406D-859C-64D591BBA8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C8D9B3-7E6A-41D9-AD64-8DA4E35D80E2}.Debug|Any CPU.ActiveCfg = Debug
+		{29C8D9B3-7E6A-41D9-AD64-8DA4E35D80E2}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
